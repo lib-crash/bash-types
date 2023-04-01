@@ -2,9 +2,14 @@
 
 Types for bash.
 
+---
+
 Is it safe? No.
+
 Is it fast? No.
+
 Is it stable? No.
+
 Is it smart? No.
 
 Does it work? ... kinda actually
